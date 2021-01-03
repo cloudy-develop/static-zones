@@ -9,7 +9,7 @@ Static Zones is a really simple script that just adds zones to the map when the 
  
 ### Git Clone
 
-1. Run CMD in your "resources" folder and type "git clone https://github.com/Cloud-Developments/static_zones.git".
+1. Run CMD in your "resources" folder and type "git clone https://github.com/cloudy-develop/static-zones.git".
 2. Edit the "config.lua" to your liking.
 3. Enjoy your static zones.
 
